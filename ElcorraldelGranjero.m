@@ -1,15 +1,15 @@
 % octave.scriptFunciones
 % Escuela: Tecnologico de Estudios Superiores de Jilotepec
-% Especialidad: Ingenier�a en Sistemas Computacionales
+% Especialidad: Ingeniería en Sistemas Computacionales
 % Titulo:El corrar del granjero 
-% Descripci�n:Dimensiones del corral de �rea m�xima que puede construir
-% Autor:Hernandez Mayen Jonathan Zuar,Cayetano Rosendo Alondra,S�nchez Mendoza Julieta
+% Descripción:Dimensiones del corral de área máxima que puede construir
+% Autor: Hernández Mayén Jonathan Zuar,Cayetano Rosendo Alondra,Sánchez Mendoza Julieta
 % Grupo:3101
 % Fecha:13-10-2021
-% Notas:Realizaremos el problema para encontarr la funcion correspondiente 
+% Notas:Realizaremos el problema para encontrar la funcion correspondiente 
 
 clear
-%Dimensiones del corral con �rea maxima 
+%Dimensiones del corral con área maxima 
 pkg load symbolic
 syms x y
 %Rango de la base y de la altura 
